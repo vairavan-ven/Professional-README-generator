@@ -1,7 +1,7 @@
-# hello world
+# Hello World
 
   ## Description
-prints hello world
+Prints out Hello World
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,10 +12,10 @@ prints hello world
 - [Questions](#questions)
 
 ## Installation
-download
+click link
 
 ## Usage
-usage
+can be used multiple times
 
 
 ## License
@@ -23,10 +23,10 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 
 ## Contributing
-contribute
+request access
 
 ## Tests
-print hello world
+run the code
 
 ## Questions
 If you have any questions, you can reach out to me via GitHub or email:
