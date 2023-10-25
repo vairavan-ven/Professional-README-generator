@@ -27,5 +27,6 @@ THEN I am taken to the corresponding section of the README
 
 ## Sample README that has been generated
 
+<img width="1710" alt="Screenshot 2023-10-24 at 6 55 39 pm" src="https://github.com/vairavan-ven/Professional-README-generator/assets/138781674/f3e47c6c-b592-4266-8044-e105c4352301">
 
 
